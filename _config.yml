@@ -30,7 +30,7 @@ twitter_username: LeoAiroldi
 github_username:  leonardoairoldi
 
 # Build settings
-theme: minima
+theme: jekyll-theme-minimal
 plugins:
   - jekyll-feed
 
