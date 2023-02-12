@@ -41,9 +41,9 @@ url                      : "https://leonardoairoldi.github.io"
 # baseurl                  : "/"
 repository               : "leonardoairoldi.github.io"
 # teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-# logo                     : "/assets/images/apple-touch-icon.png" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
-# masthead_title           : "Custom Title" # overrides the website title displayed in the masthead, use " " for no title
-# breadcrumbs            : false # true, false (default)
+logo                     : "/assets/images/apollo.jpeg" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+# masthead_title           : "Personal" # overrides the website title displayed in the masthead, use " " for no title
+breadcrumbs              : true # true, false (default)
 words_per_minute         : 200
 
 search                   : true # true, false (default)
@@ -59,21 +59,21 @@ yandex_site_verification :
 
 # Social Sharing
 email: leonardo.airoldi@live.com
-twitter:
-  username               : ""
-facebook:
-  username               :
-  app_id                 :
-  publisher              :
-# og_image                 : "/assets/images/bio-photo.jpg"
-# For specifying social profiles
-# - https://developers.google.com/structured-data/customize/social-profiles
-social:
-  type                   : # Person or Organization (defaults to Person)
-  name                   : # If the user or organization name differs from the site's name
-  links: # An array of links to social media profiles
-    - https://twitter.com/
-    - https://github.com/
+# twitter:
+#   username               : "@LeoAiroldi"
+# facebook:
+#   username               : 
+#   app_id                 :
+#   publisher              :
+# # og_image                 : "/assets/images/bio-photo.jpg"
+# # For specifying social profiles
+# # - https://developers.google.com/structured-data/customize/social-profiles
+# social:
+#   type                   : # Person or Organization (defaults to Person)
+#   name                   : # If the user or organization name differs from the site's name
+#   links: # An array of links to social media profiles
+#     - https://twitter.com/
+#     - https://github.com/
 
 # Analytics
 analytics:
@@ -85,35 +85,41 @@ analytics:
 author:
   name             : "Leonardo Airoldi"
   avatar           : "/assets/images/bio-dynamisprc-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  bio              : ""
+  location         : "Milan"
   links:
-    - label: "Your Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://your-site.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+    # - label: "E-Mail"
+    #   icon: "fas fa-fw fa-email"
+    #   url: "leonardo.airoldi@live.com"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/leonardoairoldi/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/leonardoairoldi"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
-
+      url: "https://www.instagram.com/leonardoairoldi29/"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/LeoAiroldi"
+    
 
 # Site Footer
 footer:
   links:
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/leonardoairoldi/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+      url: "https://twitter.com/LeoAiroldi"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/leonardoairoldi"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://instagram.com/leonardoairoldi29/"
 
 
 # Liquid
