@@ -39,7 +39,7 @@ name                     : "Leonardo Airoldi"
 description              : "My personal website. Powered with GitHub Pages"
 url                      : "https://leonardoairoldi.github.io"
 # baseurl                  : "/"
-repository               : "leonardoairoldi.github.io"
+repository               : "leonardoairoldi/leonardoairoldi.github.io"
 # teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : "/assets/images/apollo.jpeg" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 # masthead_title           : "Personal" # overrides the website title displayed in the masthead, use " " for no title
