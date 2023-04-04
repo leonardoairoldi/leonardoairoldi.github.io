@@ -7,20 +7,42 @@ author_profile: true
 gallery:
   - url: /assets/images/bass.jpg
     image_path: /assets/images/bass.jpg
-    alt: "placeholder image 1"
-    title: "Image 1 title caption"
+    alt: "Bass Guitar"
+    title: "Bass Guitar"
   - url: /assets/images/micro.jpg
     image_path: /assets/images/micro.jpg
-    alt: "placeholder image 2"
-    title: "Image 2 title caption"
+    alt: "MCU"
+    title: "MCU"
   - url: /assets/images/ferrari.jpg
     image_path: /assets/images/ferrari.jpg
-    alt: "placeholder image 3"
-    title: "Image 3 title caption"
+    alt: "Ferrari"
+    title: "Ferrari"
 
-image:
-    - url: /assets/images/dynamis-team-photo.jpg
-    - image_path: /assets/images/dynamis-team-photo.jpg
+gallery2:
+  - url: /assets/images/aboutme6.jpg
+    image_path: /assets/images/aboutme6.jpg
+    alt: "Me smiling"
+    title: "Me smiling"
+  - url: /assets/images/aboutme2.jpg
+    image_path: /assets/images/aboutme2.jpg
+    alt: "Bachelor Degree!"
+    title: "Bachelor Degree!"
+  - url: /assets/images/aboutme3.png
+    image_path: /assets/images/aboutme3.png
+    alt: "W my girl <3"
+    title: "W my girl <3"
+  - url: /assets/images/aboutme4.jpg
+    image_path: /assets/images/aboutme4.jpg
+    alt: "Bro's party"
+    title: "Bro's party"
+  - url: /assets/images/aboutme5.jpg
+    image_path: /assets/images/aboutme5.jpg
+    alt: "It was cold outside"
+    title: "It was cold outside"
+  - url: /assets/images/aboutme1.jpg
+    image_path: /assets/images/aboutme1.jpg
+    alt: ":)"
+    title: ":)"
 
 ---
 
@@ -37,4 +59,7 @@ When I'm not studying (😅) or messing around with computers and electronics, I
 
 {% include gallery caption="Some cool pics of my hobbies" %}
 
-I'm making this website in my free time, to explore and share new things. So thanks for checking out!
+I'm making this website in my free time, to explore and share new things. So thanks for checking out! Here are some photos of me, follow me on Instagram for more ❤️
+
+
+{% include gallery id="gallery2" caption="My wannabe instagram feed" %}
