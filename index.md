@@ -13,8 +13,8 @@ paginate: 5
 
 
 header:
-  overlay_image: /assets/images/banner.jpg
-  overlay_filter: rgba(200, 0, 0, 0.5)
+  overlay_image: /assets/images/bannernew.jpg
+  overlay_filter: rgba(150, 0, 0, 0.5)
   # overlay_filter: 0.3 # same as adding an opacity of 0.5 to a black background
   caption: "Photo credit: John London"
   actions:
@@ -23,5 +23,4 @@ header:
 
 ---
 
-# Homepage
-Hey! Here you can find some recent posts
+Hey! Here you can find some **recent posts** you might be interested in. 👋🏻
