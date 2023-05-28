@@ -11,6 +11,16 @@ Here are some desktop backgrounds I made over the years. They're not much, but r
 
 Anyway, here are some to download!
 
+## Waves
+Three round lines and four colors, unlimited options! Inspired by the Windows 11 background, I wanted something more minimal and made this in **Paint.net**. What's really nice about this is that you can litterally put whatever color you want and have a nice clean background! I tested it on my phone also, picking a vertical slice of it comes out really nice! This wallpaper is in **4K**.
+
+![WavesBlue](/assets/desktop-backgrounds/waves-blue.png)
+
+![WavesGreen](/assets/desktop-backgrounds/waves-green.png)
+
+![WavesBlueOrange](/assets/desktop-backgrounds/waves-blue-orange.png)
+
+📃 Paint.net file: [WavesPDNFile](/assets/desktop-backgrounds/waves.pdn)
 
 ## Microsoft Logo
 I made this because I wanted a nice black backround. To put something in the middle, why not choose the **colorful Microsoft Logo**? I made this in **Paint.net**, changing slightly the logo colors to flatten them a bit. This wallpaper is in **4K**.
