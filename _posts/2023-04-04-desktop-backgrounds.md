@@ -20,6 +20,9 @@ Three round lines and four colors, unlimited options! Inspired by the Windows 11
 
 ![WavesBlueOrange](/assets/desktop-backgrounds/waves-blue-orange.png)
 
+![WavesItaly](/assets/desktop-backgrounds/waves-italy.png)
+
+
 📃 Paint.net file: [WavesPDNFile](/assets/desktop-backgrounds/waves.pdn)
 
 ## Microsoft Logo
