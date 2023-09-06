@@ -1,10 +1,15 @@
 ---
 title: "Desktop Backgrounds"
+
 categories:
   - Blog
+
 tags:
   - Windows
   - Pictures
+
+header:
+  teaser: /assets/desktop-backgrounds/waves-blue.png
 ---
 
 Here are some desktop backgrounds I made over the years. They're not much, but rarely I change desktop background. I even used Windows 11 default theme out of laziness too 😅 (But I admit it's really good).
