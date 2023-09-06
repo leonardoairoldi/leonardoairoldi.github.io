@@ -123,6 +123,18 @@ footer:
       url: "https://instagram.com/leonardoairoldi29/"
 
 
+# giscus comments
+comments:
+  provider: "giscus"
+  giscus:
+    repo_id              : "R_kgDOI2Oilg"
+    category_name        : "General"
+    category_id          : "DIC_kwDOI2Oils4CZHpy"
+    discussion_term      : "pathname"
+    reactions_enabled    : '1'
+    theme                : "light"
+
+
 # Liquid
 strict_front_matter: true
 liquid:
