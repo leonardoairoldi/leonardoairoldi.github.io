@@ -42,7 +42,7 @@ url                      : "https://leonardoairoldi.github.io"
 # baseurl                  : "/"
 repository               : "leonardoairoldi/leonardoairoldi.github.io"
 # teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : "/assets/images/apollo.jpeg" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+logo                     : "assets/favicon/android-chrome-512x512.png" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 # masthead_title           : "Personal" # overrides the website title displayed in the masthead, use " " for no title
 breadcrumbs              : true # true, false (default)
 words_per_minute         : 200
@@ -101,9 +101,6 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://www.instagram.com/leonardoairoldi29/"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/LeoAiroldi"
     
 
 # Site Footer
@@ -160,6 +157,9 @@ kramdown:
   smart_quotes: lsquo,rsquo,ldquo,rdquo
   enable_coderay: false
 
+# RSS
+atom_feed:
+  hide: true
 
 # Sass/SCSS
 sass:
