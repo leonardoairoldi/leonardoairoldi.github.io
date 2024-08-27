@@ -1,5 +1,5 @@
 ---
-title: "Desktop Backgrounds"
+title: "Bike Trip: Annone to Cogoleto"
 
 categories:
   - Blog
@@ -11,13 +11,50 @@ tags:
 
 header:
   teaser: /assets/desktop-backgrounds/waves-blue.png
+
+
+
+gallery:
+  - url: https://www.komoot.com/it-it/tour/1791331154/embed?share_token=aAQSJHrPBe56VugwyalB6eKaQIPHIiDBtOxJ4ErEJQ8D85PaaH&image=1&hm=true&profile=1&width=640&height=700
+    image_path: https://www.komoot.com/it-it/tour/1791331154/embed?share_token=aAQSJHrPBe56VugwyalB6eKaQIPHIiDBtOxJ4ErEJQ8D85PaaH&image=1&hm=true&profile=1&width=640&height=700
+    alt: "Day 1"
+    title: "Day 1"
+  - url: https://www.komoot.com/it-it/tour/1793521169/embed?share_token=avrt1MDp1OScD8JxYdCKTsuKGNCoHjEMeuCE3YMfNcZ1MeNEc6&image=1&hm=true&profile=1&width=640&height=700
+    image_path: https://www.komoot.com/it-it/tour/1793521169/embed?share_token=avrt1MDp1OScD8JxYdCKTsuKGNCoHjEMeuCE3YMfNcZ1MeNEc6&image=1&hm=true&profile=1&width=640&height=700
+    alt: "Day 2"
+    title: "Day 2"
+  - url: https://www.komoot.com/it-it/tour/1795981079/embed?share_token=a9BSCHEHcGoM0f4IyfrAFIo31FvG8HligVxQZzF2PuhrcMn745&image=1&hm=true&profile=1&width=640&height=700
+    image_path: https://www.komoot.com/it-it/tour/1795981079/embed?share_token=a9BSCHEHcGoM0f4IyfrAFIo31FvG8HligVxQZzF2PuhrcMn745&image=1&hm=true&profile=1&width=640&height=700
+    alt: "Day 3"
+    title: "Day 3"
+
+
 ---
 
 Hey! During this summer I’ve done something that come up in my head some time ago. Maybe a bit of a crazy idea, always postponed as something possible, but too far, until this year. 
 My friend Stefano and I went on holiday in Liguria in an unconventional way: with our bikes!
 
 The trip looks like this
-<!--- <komooot map> --->
+
+
+{% include gallery caption="Komoot Map" %}
+
+<iframe src="https://www.komoot.com/it-it/tour/1791331154/embed?share_token=aAQSJHrPBe56VugwyalB6eKaQIPHIiDBtOxJ4ErEJQ8D85PaaH&profile=1" width="100%" height="700" frameborder="0" scrolling="no"></iframe>
+
+<iframe src="https://www.komoot.com/it-it/tour/1793521169/embed?share_token=avrt1MDp1OScD8JxYdCKTsuKGNCoHjEMeuCE3YMfNcZ1MeNEc6&profile=1" width="100%" height="700" frameborder="0" scrolling="no"></iframe>
+
+<iframe src="https://www.komoot.com/it-it/tour/1795981079/embed?share_token=a9BSCHEHcGoM0f4IyfrAFIo31FvG8HligVxQZzF2PuhrcMn745&profile=1" width="100%" height="700" frameborder="0" scrolling="no"></iframe>
+
+<!--- 
+Images
+
+<a href="https://www.komoot.com/it-it/tour/1791331154?share_token=aAQSJHrPBe56VugwyalB6eKaQIPHIiDBtOxJ4ErEJQ8D85PaaH&ref=profile" target="_blank" rel="nofollow noopener noreferrer"><img src="https://www.komoot.com/it-it/tour/1791331154/embed?share_token=aAQSJHrPBe56VugwyalB6eKaQIPHIiDBtOxJ4ErEJQ8D85PaaH&image=1&hm=true&profile=1&width=640&height=700" width="640" height="700"/></a>
+
+<a href="https://www.komoot.com/it-it/tour/1793521169?share_token=avrt1MDp1OScD8JxYdCKTsuKGNCoHjEMeuCE3YMfNcZ1MeNEc6&ref=profile" target="_blank" rel="nofollow noopener noreferrer"><img src="https://www.komoot.com/it-it/tour/1793521169/embed?share_token=avrt1MDp1OScD8JxYdCKTsuKGNCoHjEMeuCE3YMfNcZ1MeNEc6&image=1&hm=true&profile=1&width=640&height=700" width="640" height="700"/></a>
+
+<a href="https://www.komoot.com/it-it/tour/1795981079?share_token=a9BSCHEHcGoM0f4IyfrAFIo31FvG8HligVxQZzF2PuhrcMn745&ref=profile" target="_blank" rel="nofollow noopener noreferrer"><img src="https://www.komoot.com/it-it/tour/1795981079/embed?share_token=a9BSCHEHcGoM0f4IyfrAFIo31FvG8HligVxQZzF2PuhrcMn745&image=1&hm=true&profile=1&width=640&height=700" width="640" height="700"/></a>
+--->
+
 
 The trip, divided in 3 days, is also available on Komoot thanks to my dad! I’ll leave link here, if you like looking at the stats!
 
