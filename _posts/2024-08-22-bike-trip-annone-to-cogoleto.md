@@ -34,14 +34,10 @@ gallery:
 Hey! During this summer I’ve done something that come up in my head some time ago. Maybe a bit of a crazy idea, always postponed as something possible, but too far, until this year. 
 My friend Stefano and I went on holiday in Liguria in an unconventional way: with our bikes!
 
-The trip looks like this
+The trip looks like this:
 
 
-{% include gallery caption="Komoot Map" %}
-
-<iframe src="https://www.komoot.com/it-it/tour/1791331154/embed?share_token=aAQSJHrPBe56VugwyalB6eKaQIPHIiDBtOxJ4ErEJQ8D85PaaH&profile=1" width="100%" height="700" frameborder="0" scrolling="no"></iframe>
-
-<iframe src="https://www.komoot.com/it-it/tour/1793521169/embed?share_token=avrt1MDp1OScD8JxYdCKTsuKGNCoHjEMeuCE3YMfNcZ1MeNEc6&profile=1" width="100%" height="700" frameborder="0" scrolling="no"></iframe>
+{% include gallery caption="Map of the 3 days on the road" %}
 
 <iframe src="https://www.komoot.com/it-it/tour/1795981079/embed?share_token=a9BSCHEHcGoM0f4IyfrAFIo31FvG8HligVxQZzF2PuhrcMn745&profile=1" width="100%" height="700" frameborder="0" scrolling="no"></iframe>
 
@@ -79,9 +75,36 @@ So, enough preparation and ready to go! Here is the final setup beyond me and St
 ![Bike Setup Start](/assets/bike-trip-annone-cogoleto/start-setup.heic)
 
 # Day 1
-On 15 August, after a long lunch (15th Aug is National Holiday in Italy) we started our adventure. We started around 5pm, to avoid the midday sun but to arrive in Milan just before sunset.
-I started form Annone Brianza, my hometown and reached Stefano after a few km at his house. After a final check on his bike, we overcome the first part of the 
 
+<iframe src="https://www.komoot.com/it-it/tour/1791331154/embed?share_token=aAQSJHrPBe56VugwyalB6eKaQIPHIiDBtOxJ4ErEJQ8D85PaaH&profile=1" width="100%" height="700" frameborder="0" scrolling="no"></iframe>
+
+On 15 August, after a long lunch (15th Aug is National Holiday in Italy) we started our adventure. We started around 5pm, to avoid the midday sun but to arrive in Milan just before sunset.
+I started form Annone Brianza, my hometown and reached Stefano after a few km at his house. After a final check on his bike, we overcome the first part of the day, a slight uphill road of a few km. This helped a lot getting the feeling of the bike and tweaking our street ride. After a little stop at a friend's house, we continued in a slight refreshing downlhill in the middle of "Brianza" with a beautiful sun just over the horizon. We then passed through small towns and then Monza a beautiful city near Milan. The view and the streets then started to change, we reached Milan! With just enough sunlight remaining, we got through Sesto San Giovanni and then entered Milan, finally reaching my "student" house.
+After a good risotto, we went to bed and prepared for the second day.
+
+![Brianza Sunset](/assets/bike-trip-annone-cogoleto/brianza-sunset.mov)
+
+# Day 2
+
+<iframe src="https://www.komoot.com/it-it/tour/1793521169/embed?share_token=avrt1MDp1OScD8JxYdCKTsuKGNCoHjEMeuCE3YMfNcZ1MeNEc6&profile=1" width="100%" height="700" frameborder="0" scrolling="no"></iframe>
+
+On the second day, we got up at 4.30 to prepare for the day. The bikes were already packed, so we just prepared ourselves and got on the road. We biked from Bicocca through the streets of Milan, from north to south. We stopped at 8am near the "Naviglio" river to have breakfast at 8am. After a cappuccino, we got back on out bikes but fallen immediatly for a begineer's mistake. Stefano's front wheel got stuck in a tram rail that cost him a fall. I was following right behind, so I akwardly fell too after not managing to break on time. 
+
+![Milan Photo]()
+
+We stopped to make sure it was all ok (fortunatelly yes!). A sweet old lady also helped us with some water and alchool to heal the small bruises. We then returned to our bikes, now proceeding with extra caution on the streets of Milan. After only a few hundreds meter however, we were already out! We then biked along a beautiful cycle path alonogside the "Naviglio Pavese" until Binasco. The bike path was really nice and new, with a good asphalt and away from cars. After that we went through the Ticino Natural Park, where we crossed the Ticino river, a big water course that stands out in the middle of the woods.
+
+![Ticino Photo]()
+
+From then, we reached the "Pianura Padana", the largest plain in Italy that spaces across northern Italy. The streets soon become really monotonous as the plains are used mainly for agricolture. Fortunatelly the weather was on our side, and clouds covered the high sun providing some shadow. Otherwise, with no tree in sight, we would've suffered a lot the heat. We stopped to eat our lunch at "Sannazzaro de'Burgondi" a small town in the middle of basically nowhere. Unfortunately, a lot of resturants were closed being the owners on holiday, so we were left with the only option of a kebab.
+
+After the lunch break, we started to feel the long distance. The muscles were starting to get tired and even mental strenght that got us doing long stints started to vanish. We crossed the Po river on a long bridge, as Po is the longest river in Italy and its pretty large.
+
+![Po video]()
+
+After the Po, we entered the most difficult part of the entire journey. The path was not that difficult, neither technically or phisically being 40km of almost plain roads. However, we started getting tired and began to stop more and more. Finally a relief was reaching Tortona, probably the biggest city we encountered that day after Milan. Tortona not only was a checkpoint, but the view also finally started to change, as we could see in the distance the mountainst that we would've faced the next day. The infinite plains were finally over.
+
+After Tortona we stopped for a long pause at Cassano Spinola to regain our streghts for the last push to our night place. We discovered that Cassano Spinola was one of the "Villages of the Champions", being one of the villages that very famous italians cyclist like Fausto Coppi often crossed in their rides near their hometowns.
 
 
 ![WavesBlue](/assets/desktop-backgrounds/waves-blue.png)
