@@ -10,11 +10,11 @@ tags:
   - Sports
 
 header:
-  teaser: /assets/desktop-backgrounds/waves-blue.png
+  teaser: /assets/bike-trip-annone-to-cogoleto/bike-setup-alpha.jpg
 
 
 
-gallery:
+gallery-komoot:
   - url: https://www.komoot.com/it-it/tour/1791331154/embed?share_token=aAQSJHrPBe56VugwyalB6eKaQIPHIiDBtOxJ4ErEJQ8D85PaaH&image=1&hm=true&profile=1&width=640&height=700
     image_path: https://www.komoot.com/it-it/tour/1791331154/embed?share_token=aAQSJHrPBe56VugwyalB6eKaQIPHIiDBtOxJ4ErEJQ8D85PaaH&image=1&hm=true&profile=1&width=640&height=700
     alt: "Day 1"
@@ -28,6 +28,17 @@ gallery:
     alt: "Day 3"
     title: "Day 3"
 
+gallery-top:
+  - url: /assets/bike-trip-annone-cogoleto/peak-leo.jpg
+    image_path: /assets/bike-trip-annone-cogoleto/peak-leo.jpg
+  - url: /assets/bike-trip-annone-cogoleto/peak-ste.jpg
+    image_path: /assets/bike-trip-annone-cogoleto/peak-ste.jpg
+  - url: /assets/bike-trip-annone-cogoleto/bench-leo.jpg
+    image_path: /assets/bike-trip-annone-cogoleto/bench-leo.jpg
+  - url: /assets/bike-trip-annone-cogoleto/bench-ste.jpg
+    image_path: /assets/bike-trip-annone-cogoleto/bench-ste.jpg
+  
+
 
 ---
 
@@ -36,8 +47,7 @@ My friend Stefano and I went on holiday in Liguria in an unconventional way: wit
 
 The trip looks like this:
 
-
-{% include gallery caption="Map of the 3 days on the road" %}
+{% include gallery id="gallery-komoot" %}
 
 
 <!--- 
@@ -128,4 +138,9 @@ The B&B was very nice, it is called [B&B L'Albicocco](https://maps.app.goo.gl/Eo
 After a long night sleep, we woke up around 7am to prepare for the last day. We slept really really well, thanks to two big beds and all the tiredness from the day before. After a generous breakfast at the B&B, we left around 8.30am. The climb was just ahead of us, as we needed to pass the Appennini to get in Liguria. We decided to go for the "Passo della Bocchetta", as it was the easiest to traverse to get into Genova. The slope gradually started to increase as we passed through small villages near the mountains, like Voltaggio.
 
 ![Voltaggio](/assets/bike-trip-annone-cogoleto/voltaggio.jpg)
+
+Following a road alongide a river, we started gaining altitude fast. However in the meantime, the weather started to get worse. Clouds were closing the sky and we feared a thunderstorme before we could reach a safe place at the top. So we decided to give it all, using all our energies knowing that, after the summit, a long downhill road awaited us. 
+We reached the top of the mountain pass at Campomorone, at an altitude of 772 m. The last hundreds meters were difficult, but reaching the top was priceless! We stopped for a well deserved rest, with our wind jackets on.
+
+{% include gallery id="gallery-top" %}
 
