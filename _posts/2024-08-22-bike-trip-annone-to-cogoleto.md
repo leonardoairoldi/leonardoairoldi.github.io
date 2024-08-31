@@ -144,3 +144,10 @@ We reached the top of the mountain pass at Campomorone, at an altitude of 772 m.
 
 {% include gallery id="gallery-top" %}
 
+At the peak we were happier than ever, even if we couldn't still see the sea hiding beyond the mountains. We got on our bike after we made sure it was not going to rain, to have a safe ride downhill. Even though I enjoyed the ride down as it was restful not to pedal, I was not super confident on the bike. The brakes were pretty old (however they worked fine), but most importantly I was not so sure on which position to hold during the descent. I was a bit scared to hold the handlebar on the bottom part as I struggled to reach the brakes with my fingers, probably because their position was not well adjusted.
+After a long ride down we finally reaeched Genova, and started to bike on roads that soon become city-like. Komoot was really helpful, for the most part we followed a cycling path along a main road, and so we avoided buisy streets filled with traffic. Even if we had to pedal, we were in perfect shape and the bikes were not tiring at all. 
+
+So, we decided to take a deviation and visit a bit more Genova! As it was noon, we stopped for a "focaccia" in the center of the city. We finally saw the sea, that was an incredible sensation. It was crazy for us to think that we made it till there!
+
+![Bikes Sea](/assets/bike-trip-annone-cogoleto/bikes-sea.jpg)
+
