@@ -125,5 +125,7 @@ The B&B was very nice, it is called [B&B L'Albicocco](https://maps.app.goo.gl/Eo
 
 <iframe src="https://www.komoot.com/it-it/tour/1795981079/embed?share_token=a9BSCHEHcGoM0f4IyfrAFIo31FvG8HligVxQZzF2PuhrcMn745&profile=1" width="100%" height="700" frameborder="0" scrolling="no"></iframe>
 
-After a long night sleep, we woke up around 7am to prepare for the last day. We slept really really well, thanks to two big beds and all the tiredness from the day before. After a generous breakfast at the B&B, we left around 8.30am. The climb was just ahead of us, and we 
+After a long night sleep, we woke up around 7am to prepare for the last day. We slept really really well, thanks to two big beds and all the tiredness from the day before. After a generous breakfast at the B&B, we left around 8.30am. The climb was just ahead of us, as we needed to pass the Appennini to get in Liguria. We decided to go for the "Passo della Bocchetta", as it was the easiest to traverse to get into Genova. The slope gradually started to increase as we passed through small villages near the mountains, like Voltaggio.
+
+![Voltaggio](/assets/bike-trip-annone-cogoleto/voltaggio.jpg)
 
