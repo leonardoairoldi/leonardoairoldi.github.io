@@ -62,7 +62,7 @@ Also the bike preparation was important: at first I wanted to fit all of the nee
 
 As you can see above, the setup was bretty minimal only to store the stricly necessary. You can see the spare inner tube attached below the seat, a bike bag one the front and two 700ml bottles to store lots of water for long stints.
 
-![Bike Setup Final](/assets/bike-trip-annone-cogoleto/bike-setup-alpha.png)
+![Bike Setup Final](/assets/bike-trip-annone-cogoleto/bike-setup-front.png)
 
 During the preparation however this setup changed a lot: the front bag moved down between the frame, the spare tube bag moved down over the rear wheel and I added a pouch bag secured with some car ropes to store keys, clothes and a pair of flip flops.
 I then added a pair of bike lights bougth at Decathlon (SL 510, really pretty and USB chargeable) to stay safe in case of dark and tunnels, and a really light but shaky phone holder.
@@ -81,7 +81,8 @@ On 15 August, after a long lunch (15th Aug is National Holiday in Italy) we star
 I started form Annone Brianza, my hometown and reached Stefano after a few km at his house. After a final check on his bike, we overcome the first part of the day, a slight uphill road of a few km. This helped a lot getting the feeling of the bike and tweaking our street ride. After a little stop at a friend's house, we continued in a slight refreshing downlhill in the middle of "Brianza" with a beautiful sun just over the horizon. We then passed through small towns and then Monza a beautiful city near Milan. The view and the streets then started to change, we reached Milan! With just enough sunlight remaining, we got through Sesto San Giovanni and then entered Milan, finally reaching my "student" house.
 After a good risotto, we went to bed and prepared for the second day.
 
-![Brianza Sunset](/assets/bike-trip-annone-cogoleto/brianza-sunset-no-audio.mov)
+<iframe src="https://leonardoairoldi.github.io/assets/bike-trip-annone-cogoleto/brianza-sunset-no-audio.mov" frameborder="0"> </iframe>
+<!-- ![Brianza Sunset](/assets/bike-trip-annone-cogoleto/brianza-sunset-no-audio.mov) -->
 
 # Day 2
 
@@ -101,7 +102,9 @@ From then, we reached the "Pianura Padana", the largest plain in Italy that spac
 
 After the lunch break, we started to feel the long distance. The muscles were starting to get tired and even mental strenght that got us doing long stints started to vanish. We crossed the Po river on a long bridge, as Po is the longest river in Italy and its pretty large.
 
-![Po video](/assets/bike-trip-annone-cogoleto/po-video-no-audio.mov)
+<iframe src="https://leonardoairoldi.github.io/assets/bike-trip-annone-cogoleto/po-video-no-audio.mov" frameborder="0"> </iframe>
+
+<!-- ![Po video](/assets/bike-trip-annone-cogoleto/po-video-no-audio.mov) -->
 
 After the Po, we entered the most difficult part of the entire journey. The path was not that difficult, neither technically or phisically being 40km of almost plain roads. However, we started getting tired and began to stop more and more. Finally a relief was reaching Tortona, probably the biggest city we encountered that day after Milan. Tortona not only was a checkpoint, but the view also finally started to change, as we could see in the distance the mountainst that we would've faced the next day. The infinite plains were finally over.
 
