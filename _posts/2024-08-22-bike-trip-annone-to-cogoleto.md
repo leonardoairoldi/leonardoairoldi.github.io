@@ -142,7 +142,7 @@ After a long night sleep, we woke up around 7am to prepare for the last day. We 
 Following a road alongide a river, we started gaining altitude fast. However in the meantime, the weather started to get worse. Clouds were closing the sky and we feared a thunderstorme before we could reach a safe place at the top. So we decided to give it all, using all our energies knowing that, after the summit, a long downhill road awaited us. 
 We reached the top of the mountain pass at Campomorone, at an altitude of 772 m. The last hundreds meters were difficult, but reaching the top was priceless! We stopped for a well deserved rest, with our wind jackets on.
 
-{% include gallery id="gallery-top" %}
+{% include gallery layout="half" id="gallery-top" %}
 
 At the peak we were happier than ever, even if we couldn't still see the sea hiding beyond the mountains. We got on our bike after we made sure it was not going to rain, to have a safe ride downhill. Even though I enjoyed the ride down as it was restful not to pedal, I was not super confident on the bike. The brakes were pretty old (however they worked fine), but most importantly I was not so sure on which position to hold during the descent. I was a bit scared to hold the handlebar on the bottom part as I struggled to reach the brakes with my fingers, probably because their position was not well adjusted.
 After a long ride down we finally reaeched Genova, and started to bike on roads that soon become city-like. Komoot was really helpful, for the most part we followed a cycling path along a main road, and so we avoided buisy streets filled with traffic. Even if we had to pedal, we were in perfect shape and the bikes were not tiring at all. 
