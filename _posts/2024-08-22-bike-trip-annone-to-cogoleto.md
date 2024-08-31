@@ -151,3 +151,8 @@ So, we decided to take a deviation and visit a bit more Genova! As it was noon, 
 
 ![Bikes Sea](/assets/bike-trip-annone-cogoleto/bikes-sea.jpg)
 
+Last break lunch done, the only final kilometers were ahead of us. Unfortunatly the sun was high and the sky was clear, so the temperature was pretty high. After waiting a bit, we decided to start anyway, as the distance was not too long and we were feeling pretty well. We went again through the streets of Genova, but now going further west to take the Via Aurelia and exit the city. 
+A problem with the bike of Stefano made us stop: the seat was coming loose. Fortunatly (thanks to his extreme care in packing) he brought a multitool, that he used to quickly secure the seat again.
+Unfortunately, biking through via Aurelia is not too relaxing as the road is tight and a lot of cars are passing by. However, the view on the sea was amazing.
+
+![Aurelia](/assets/bike-trip-annone-cogoleto/aurelia.gif)
