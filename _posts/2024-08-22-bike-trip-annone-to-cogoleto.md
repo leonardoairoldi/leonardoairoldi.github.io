@@ -10,7 +10,7 @@ tags:
   - Sports
 
 header:
-  teaser: /assets/bike-trip-annone-cogoleto/bike-setup-alpha.jpg
+  teaser: /assets/bike-trip-annone-cogoleto/bike-setup-alpha-no-cable.jpg
 
 
 
@@ -68,7 +68,7 @@ First I need to say I have never really rode a road bike. My dad used to, an
 So, during the previous days, I have done a few short rides to get used to the gear, especially the clipless shoes.
 Also the bike preparation was important: at first I wanted to fit all the needed thing in a few small bags attached to the bike. However, I ended up using a really lightweight backpack, just to store the extra stuff.
 
-![Bike Setup Preparation](/assets/bike-trip-annone-cogoleto/bike-setup-alpha.jpg)
+![Bike Setup Preparation](/assets/bike-trip-annone-cogoleto/bike-setup-alpha-no-cable.jpg)
 
 As you can see above, the setup was pretty minimal only to store the strictly necessary. You can see the spare inner tube attached below the seat, a bike bag one the front and two 700ml bottles to store lots of water for long stints.
 
