@@ -10,7 +10,7 @@ tags:
   - Sports
 
 header:
-  teaser: /assets/bike-trip-annone-to-cogoleto/bike-setup-alpha.jpg
+  teaser: /assets/bike-trip-annone-cogoleto/bike-setup-alpha.jpg
 
 
 
