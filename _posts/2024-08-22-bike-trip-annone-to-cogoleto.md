@@ -88,7 +88,9 @@ So, enough preparation and ready to go! Here is the final setup beyond me and St
 <iframe src="https://www.komoot.com/it-it/tour/1791331154/embed?share_token=aAQSJHrPBe56VugwyalB6eKaQIPHIiDBtOxJ4ErEJQ8D85PaaH&profile=1" width="100%" height="700" frameborder="0" scrolling="no"></iframe>
 
 On 15 August, after a long lunch (15th Aug is National Holiday in Italy) we started our adventure. We started around 5pm, to avoid the midday sun but to arrive in Milan just before sunset.
-I started form Annone Brianza, my hometown and reached Stefano after a few km at his house. After a final check on his bike, we overcome the first part of the day, a slight uphill road of a few km. This helped a lot getting the feeling of the bike and tweaking our street ride. After a little stop at a friend's house, we continued in a slight refreshing downhill in the middle of "Brianza" with a beautiful sun just over the horizon. We then passed through small towns and then Monza a beautiful city near Milan. The view and the streets then started to change, we reached Milan! With just enough sunlight remaining, we got through Sesto San Giovanni and then entered Milan, finally reaching my "student" house.
+I started form Annone Brianza, my hometown and reached Stefano after a few km at his house. After a final check on his bike, we overcome the first part of the day, a slight uphill road of a few km. This helped a lot getting the feeling of the bike and tweaking our street ride. 
+
+After a little stop at a friend's house, we continued in a slight refreshing downhill in the middle of "Brianza" with a beautiful sun just over the horizon. We then passed through small towns and then Monza a beautiful city near Milan. The view and the streets then started to change, we reached Milan! With just enough sunlight remaining, we got through Sesto San Giovanni and then entered Milan, finally reaching my "student" house.
 After a good risotto, we went to bed and prepared for the second day.
 
 <!-- <iframe src="https://leonardoairoldi.github.io/assets/bike-trip-annone-cogoleto/brianza-sunset-no-audio.mov" frameborder="0"> </iframe> -->
@@ -145,8 +147,8 @@ We reached the top of the mountain pass at Campomorone, at an altitude of 772 m.
 {% include gallery layout="half" id="gallery-top" %}
 
 At the peak we were happier than ever, even if we couldn't still see the sea hiding beyond the mountains. We got on our bike after we made sure it was not going to rain, to have a safe ride downhill. Even though I enjoyed the ride down as it was restful not to pedal, I was not super confident on the bike. The brakes were pretty old (however they worked fine), but most importantly I was not so sure on which position to hold during the descent. I was a bit scared to hold the handlebar on the bottom part as I struggled to reach the brakes with my fingers, probably because their position was not well-adjusted.
-After a long ride down we finally reached Genova, and started to bike on roads that soon become city-like. Komoot was really helpful, for the most part we followed a cycling path along a main road, and so we avoided busy streets filled with traffic. Even if we had to pedal, we were in perfect shape and the bikes were not tiring at all. 
 
+After a long ride down we finally reached Genova, and started to bike on roads that soon become city-like. Komoot was really helpful, for the most part we followed a cycling path along a main road, and so we avoided busy streets filled with traffic. Even if we had to pedal, we were in perfect shape and the bikes were not tiring at all. 
 So, we decided to take a deviation and visit a bit more Genova! As it was noon, we stopped for a "focaccia" in the center of the city. We finally saw the sea, that was an incredible sensation. It was crazy for us to think that we made it till there!
 
 ![Bikes Sea](/assets/bike-trip-annone-cogoleto/bikes-sea.jpg)
