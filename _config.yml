@@ -85,7 +85,7 @@ analytics:
 # Site Author
 author:
   name             : "Leonardo Airoldi"
-  avatar           : "/assets/images/bio-dynamisprc-photo.jpg"
+  # avatar           : "/assets/images/bio-dynamisprc-photo.jpg"
   bio              : ""
   location         : "Milan"
   links:
