@@ -156,3 +156,16 @@ A problem with the bike of Stefano made us stop: the seat was coming loose. Fort
 Unfortunately, biking through via Aurelia is not too relaxing as the road is tight and a lot of cars are passing by. However, the view on the sea was amazing.
 
 ![Aurelia](/assets/bike-trip-annone-cogoleto/aurelia.gif)
+
+We were biking hard, pushed by the thought of getting at the "finish line". We basically never stopped on the last 30km, as we weren't feeling fatigued at all. We reached Arenzano, the last town we had to cross to reach Cogoleto. From there we took a cycle path separated from the road, and after a few tunnels through the hills we were at Cogoleto! We made it! 
+Seeing the see, the beaches, the palms was all fantastic. We were so happy to have reached our goal, but a bit sad that the journey was already over. At Cogoleto we felt like we could have gone for hours!
+
+![Bike Palms](/assets/bike-trip-annone-cogoleto/bikes-palms.jpg)
+
+We parked our bikes in the garage, put on our swimming trunks and went for probably our most deserved swim in the sea! It has been an incredible experience and I am so glad we did it, as it is something that I will remeber as one of my best adventures of all time!
+Thank you Stefano, for being the perfect cycling companion and friend!
+
+<figure>
+	<a><img src="/assets/bike-trip-annone-cogoleto/bros.jpg"></a>
+	<figcaption>Two bros making it to the sea!</figcaption>
+</figure>
