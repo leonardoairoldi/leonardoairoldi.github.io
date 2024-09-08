@@ -15,13 +15,13 @@ header:
 
 gallery-diff-images:
   - url: /assets/radiation-detection-systems-notes/diff-image-7kev.jpg
-    image-path: /assets/radiation-detection-systems-notes/diff-image-7kev.jpg
+    image_path: /assets/radiation-detection-systems-notes/diff-image-7kev.jpg
   - url: /assets/radiation-detection-systems-notes/diff-image-9kev.jpg
-    image-path: /assets/radiation-detection-systems-notes/diff-image-9kev.jpg
+    image_path: /assets/radiation-detection-systems-notes/diff-image-9kev.jpg
   - url: /assets/radiation-detection-systems-notes/diff-image-14kev.jpg
-    image-path: /assets/radiation-detection-systems-notes/diff-image-14kev.jpg
+    image_path: /assets/radiation-detection-systems-notes/diff-image-14kev.jpg
   - url: /assets/radiation-detection-systems-notes/diff-image-20kev.jpg
-    image-path: /assets/radiation-detection-systems-notes/diff-image-20kev.jpg
+    image_path: /assets/radiation-detection-systems-notes/diff-image-20kev.jpg
 
 ---
 
