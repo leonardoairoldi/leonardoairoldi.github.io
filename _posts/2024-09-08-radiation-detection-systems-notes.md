@@ -36,6 +36,5 @@ Good luck!
 📗  [Link to the notes](/assets/radiation-detection-systems-notes/RadiationDetectionSystems_HandNotes.pdf)
 
 
-{% include gallery layout="half" id="gallery-diff-images" %}
+{% include gallery layout="half" id="gallery-diff-images" caption="Some pretty photos from the RDS lab activities" %}
 
-Some pretty photos from the RDS lab activities.
