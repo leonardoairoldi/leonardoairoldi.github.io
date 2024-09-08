@@ -29,5 +29,8 @@ These are my hand notes on the course of **Radiation Detection Systems**, taken 
 
 Good luck!
 
+📗  [Link to the notes](/assets/radiation-detection-systems-notes/RadiationDetectionSystems_HandNotes.pdf)
+
+
 {% include gallery layout="half" id="gallery-diff-images" %}
 
