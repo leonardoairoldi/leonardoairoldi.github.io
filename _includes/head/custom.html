@@ -5,3 +5,52 @@
 <link rel="mask-icon" href="/assets/favicon/safari-pinned-tab.svg" color="#5bbad5">
 <meta name="msapplication-TileColor" content="#da532c">
 <meta name="theme-color" content="#ffffff">
+
+<style>
+/* Keep the Minimal Mistakes button look; only style inner icons */
+.btn .cv-icon {
+  display: inline-flex;
+  align-items: center;
+  cursor: pointer;
+  margin-left: 0.35rem; /* tiny gap before text */
+}
+.btn .cv-icon i { pointer-events: none; } /* click targets the span */
+.cv-docx { color: #007bff; }   /* blue */
+.cv-pdf  { color: #ff6f00; }   /* orange */
+
+/* .cv-icon:focus { outline: 2px solid currentColor; outline-offset: 2px; } */
+.cv-icon:hover { opacity: 0.5; }
+</style>
+
+<script>
+document.addEventListener('click', function (e) {
+  const icon = e.target.closest('.cv-icon');
+  if (!icon) return;
+
+  // prevent the outer button from navigating
+  e.preventDefault();
+  e.stopPropagation();
+
+  const href = icon.classList.contains('cv-docx')
+    ? '/assets/cv/mycv.docx'
+    : '/assets/cv/mycv.pdf';
+
+  window.location.href = href;
+});
+
+// keyboard accessibility for the spans
+document.addEventListener('keydown', function (e) {
+  if (!(e.key === 'Enter' || e.key === ' ')) return;
+  const icon = document.activeElement.closest && document.activeElement.closest('.cv-icon');
+  if (!icon) return;
+
+  e.preventDefault();
+  e.stopPropagation();
+
+  const href = icon.classList.contains('cv-docx')
+    ? '/assets/cv/mycv.docx'
+    : '/assets/cv/mycv.pdf';
+
+  window.location.href = href;
+});
+</script>
