@@ -101,6 +101,13 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://www.instagram.com/leonardoairoldi29/"
+    - label: "CV (PDF)"
+      icon: "fas fa-fw fa-file-pdf"
+      url: "/assets/curriculum-vitae/leonardo-airoldi-cv.pdf"
+    - label: "CV (DOCX)"
+      icon: "fas fa-fw fa-file-word"
+      url: "/assets/curriculum-vitae/leonardo-airoldi-cv.docx"
+      
     
 
 # Site Footer

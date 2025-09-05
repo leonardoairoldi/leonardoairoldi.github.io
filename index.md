@@ -21,7 +21,7 @@ header:
     - label: "About Me"
       url: "/about"
     - label: 'My CV <span class="cv-icon cv-docx" role="button" tabindex="0" aria-label="Download DOCX"><i class="fas fa-file-word"></i></span> <span class="cv-icon cv-pdf" role="button" tabindex="0" aria-label="Download PDF"><i class="fas fa-file-pdf"></i></span>'
-      url: "/assets/cv/mycv.html"
+      url: "/assets/curriculum-vitae/leonardo-airoldi-cv.pdf"
 
 
 

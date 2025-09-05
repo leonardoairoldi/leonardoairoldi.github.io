@@ -46,7 +46,7 @@ gallery2:
 
 ---
 
-I am Leonardo, a 22 y.o. **Electronics Engineering** student at **Politecnico di Milano** and a team member of **[Dynamis PRC](http://www.dynamisprc.com)**.
+I am Leonardo, a 24 y.o. **Electronics Engineering** student at **Politecnico di Milano** and a team member of **[Dynamis PRC](http://www.dynamisprc.com)**.
 
 I'm really passionate about what I study: I think *engineering is the missing link between our imagination and real world*! Electronics is my field of study: although my Bachelor Degree is in Computer Science, I wanted to figure out what was under it and what makes thing move. That's why I like when both of the two world mix together.
 
@@ -55,11 +55,11 @@ I joined Dynamis PRC, a **Formula Student** racing team in 2022. I work in the *
 ![Team Photo](/assets/images/dynamis-team-photo.jpg)
 
 
-When I'm not studying (😅) or messing around with computers and electronics, I love listening to music and play bass, whatching F1 or hanging out and exploring places with my friends.
+When I'm not studying (😅) or messing around with computers and electronics, I love listening to music and play bass guitar, watching F1 or hanging out and exploring places with my friends.
 
 {% include gallery caption="Some cool pics of my hobbies" %}
 
-I'm making this website in my free time, to explore and share new things. So thanks for checking out! Here are some photos of me, follow me on Instagram for more ❤️
+I'm making this website in my free time, to explore and share new things. So thanks for checking out! ❤️
 
 
 {% include gallery id="gallery2" caption="My wannabe instagram feed" %}

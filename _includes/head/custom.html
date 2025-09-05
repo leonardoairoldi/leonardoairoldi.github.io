@@ -32,10 +32,18 @@ document.addEventListener('click', function (e) {
   e.stopPropagation();
 
   const href = icon.classList.contains('cv-docx')
-    ? '/assets/cv/mycv.docx'
-    : '/assets/cv/mycv.pdf';
+    ? '/assets/curriculum-vitae/leonardo-airoldi-cv.docx'
+    : '/assets/curriculum-vitae/leonardo-airoldi-cv.pdf';
 
-  window.location.href = href;
+  // window.location.href = href; // Normal navigation (open in browser for PDF)
+  
+  // create a temporary link to trigger download
+  const link = document.createElement('a');
+  link.href = href;
+  link.download = href.split('/').pop(); // use filename from path
+  document.body.appendChild(link);
+  link.click();
+  document.body.removeChild(link);
 });
 
 // keyboard accessibility for the spans
@@ -48,8 +56,8 @@ document.addEventListener('keydown', function (e) {
   e.stopPropagation();
 
   const href = icon.classList.contains('cv-docx')
-    ? '/assets/cv/mycv.docx'
-    : '/assets/cv/mycv.pdf';
+    ? '/assets/curriculum-vitae/leonardo-airoldi-cv.docx'
+    : '/assets/curriculum-vitae/leonardo-airoldi-cv.pdf';
 
   window.location.href = href;
 });
